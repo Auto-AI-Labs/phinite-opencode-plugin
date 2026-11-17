@@ -1,0 +1,14 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": [
+    "AGENTS.md"
+  ],
+  "mcp": {
+    "servers": {
+      "phinite": {
+        "type": "remote",
+        "url": "https://mcp.dev.phinite.ai/mcp"
+      }
+    }
+  }
+}
